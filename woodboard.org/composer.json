@@ -1,0 +1,10 @@
+{
+    "name": "woodboard/sistema-indicadores",
+    "description": "Sistema web para la visualizacion y analisis de indicadores clave",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}

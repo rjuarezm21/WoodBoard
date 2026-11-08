@@ -1,0 +1,2 @@
+[10-Oct-2026 11:45:24 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[10-Oct-2026 11:45:24 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6

@@ -1,0 +1,347 @@
+[06-Oct-2026 15:20:54 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[06-Oct-2026 15:20:54 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[06-Oct-2026 15:22:54 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[06-Oct-2026 15:22:54 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[06-Oct-2026 15:39:42 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[06-Oct-2026 15:39:42 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[06-Oct-2026 18:02:02 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[06-Oct-2026 18:02:02 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[06-Oct-2026 18:05:09 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[06-Oct-2026 18:05:09 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[06-Oct-2026 18:09:34 America/Mexico_City] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 105
+[06-Oct-2026 18:09:39 America/Mexico_City] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 105
+[06-Oct-2026 18:12:21 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[06-Oct-2026 18:12:21 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[06-Oct-2026 18:12:21 America/Mexico_City] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 105
+[06-Oct-2026 18:17:10 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[06-Oct-2026 18:17:10 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[06-Oct-2026 18:17:10 America/Mexico_City] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 105
+[06-Oct-2026 18:22:44 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[06-Oct-2026 18:22:44 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[06-Oct-2026 18:22:44 America/Mexico_City] PHP Warning:  Undefined variable $nombreArea in /home2/ecbamisi/woodboard.org/app/Presentation/Views/panel.php on line 109
+[06-Oct-2026 18:22:46 America/Mexico_City] PHP Warning:  Undefined variable $nombreArea in /home2/ecbamisi/woodboard.org/app/Presentation/Views/panel.php on line 109
+[06-Oct-2026 18:28:15 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[06-Oct-2026 18:28:15 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[06-Oct-2026 18:33:29 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function getIdUsuario() on array in /home2/ecbamisi/woodboard.org/app/Presentation/Views/usuarios/index.php:117
+Stack trace:
+#0 /home2/ecbamisi/woodboard.org/public/usuarios.php(98): require()
+#1 {main}
+  thrown in /home2/ecbamisi/woodboard.org/app/Presentation/Views/usuarios/index.php on line 117
+[06-Oct-2026 18:33:30 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function getIdUsuario() on array in /home2/ecbamisi/woodboard.org/app/Presentation/Views/usuarios/index.php:117
+Stack trace:
+#0 /home2/ecbamisi/woodboard.org/public/usuarios.php(98): require()
+#1 {main}
+  thrown in /home2/ecbamisi/woodboard.org/app/Presentation/Views/usuarios/index.php on line 117
+[06-Oct-2026 18:34:13 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function getIdUsuario() on array in /home2/ecbamisi/woodboard.org/app/Presentation/Views/usuarios/index.php:117
+Stack trace:
+#0 /home2/ecbamisi/woodboard.org/public/usuarios.php(98): require()
+#1 {main}
+  thrown in /home2/ecbamisi/woodboard.org/app/Presentation/Views/usuarios/index.php on line 117
+[06-Oct-2026 18:37:53 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[06-Oct-2026 18:37:53 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[06-Oct-2026 18:37:53 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function App\Business\Services\UsuarioService::__construct(), 1 passed in /home2/ecbamisi/woodboard.org/public/usuarios.php on line 73 and exactly 3 expected in /home2/ecbamisi/woodboard.org/app/Business/Services/UsuarioService.php:18
+Stack trace:
+#0 /home2/ecbamisi/woodboard.org/public/usuarios.php(73): App\Business\Services\UsuarioService->__construct(Object(App\Data\Repositories\UsuarioRepository))
+#1 {main}
+  thrown in /home2/ecbamisi/woodboard.org/app/Business/Services/UsuarioService.php on line 18
+[06-Oct-2026 18:45:50 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[06-Oct-2026 18:45:50 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[06-Oct-2026 18:52:29 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[06-Oct-2026 18:52:29 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[06-Oct-2026 18:58:30 America/Mexico_City] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 105
+[06-Oct-2026 18:58:36 America/Mexico_City] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 105
+[06-Oct-2026 18:58:45 America/Mexico_City] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 105
+[06-Oct-2026 20:06:37 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[06-Oct-2026 20:06:37 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[06-Oct-2026 20:20:45 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[06-Oct-2026 20:20:45 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[06-Oct-2026 20:26:59 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "App\Data\Repositories\EmpleadoRepository" not found in /home2/ecbamisi/woodboard.org/public/empleados.php:85
+Stack trace:
+#0 {main}
+  thrown in /home2/ecbamisi/woodboard.org/public/empleados.php on line 85
+[06-Oct-2026 20:27:15 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "App\Data\Repositories\EmpleadoRepository" not found in /home2/ecbamisi/woodboard.org/public/empleados.php:85
+Stack trace:
+#0 {main}
+  thrown in /home2/ecbamisi/woodboard.org/public/empleados.php on line 85
+[06-Oct-2026 20:27:40 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "App\Data\Repositories\EmpleadoRepository" not found in /home2/ecbamisi/woodboard.org/public/empleados.php:49
+Stack trace:
+#0 {main}
+  thrown in /home2/ecbamisi/woodboard.org/public/empleados.php on line 49
+[06-Oct-2026 20:28:40 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "App\Data\Repositories\EmpleadoRepository" not found in /home2/ecbamisi/woodboard.org/public/empleados.php:49
+Stack trace:
+#0 {main}
+  thrown in /home2/ecbamisi/woodboard.org/public/empleados.php on line 49
+[06-Oct-2026 20:29:36 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "App\Data\Repositories\EmpleadoRepository" not found in /home2/ecbamisi/woodboard.org/public/empleados.php:49
+Stack trace:
+#0 {main}
+  thrown in /home2/ecbamisi/woodboard.org/public/empleados.php on line 49
+[06-Oct-2026 20:29:37 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "App\Data\Repositories\EmpleadoRepository" not found in /home2/ecbamisi/woodboard.org/public/empleados.php:49
+Stack trace:
+#0 {main}
+  thrown in /home2/ecbamisi/woodboard.org/public/empleados.php on line 49
+[06-Oct-2026 20:29:51 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "App\Data\Repositories\EmpleadoRepository" not found in /home2/ecbamisi/woodboard.org/public/empleados.php:49
+Stack trace:
+#0 {main}
+  thrown in /home2/ecbamisi/woodboard.org/public/empleados.php on line 49
+[06-Oct-2026 20:30:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "App\Data\Repositories\EmpleadoRepository" not found in /home2/ecbamisi/woodboard.org/public/empleados.php:49
+Stack trace:
+#0 {main}
+  thrown in /home2/ecbamisi/woodboard.org/public/empleados.php on line 49
+[06-Oct-2026 20:30:03 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "App\Data\Repositories\EmpleadoRepository" not found in /home2/ecbamisi/woodboard.org/public/empleados.php:49
+Stack trace:
+#0 {main}
+  thrown in /home2/ecbamisi/woodboard.org/public/empleados.php on line 49
+[06-Oct-2026 20:30:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "App\Data\Repositories\EmpleadoRepository" not found in /home2/ecbamisi/woodboard.org/public/empleados.php:49
+Stack trace:
+#0 {main}
+  thrown in /home2/ecbamisi/woodboard.org/public/empleados.php on line 49
+[06-Oct-2026 20:31:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "App\Data\Repositories\EmpleadoRepository" not found in /home2/ecbamisi/woodboard.org/public/empleados.php:49
+Stack trace:
+#0 {main}
+  thrown in /home2/ecbamisi/woodboard.org/public/empleados.php on line 49
+[06-Oct-2026 20:31:31 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "App\Data\Repositories\EmpleadoRepository" not found in /home2/ecbamisi/woodboard.org/public/empleados.php:77
+Stack trace:
+#0 {main}
+  thrown in /home2/ecbamisi/woodboard.org/public/empleados.php on line 77
+[06-Oct-2026 20:31:33 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "App\Data\Repositories\EmpleadoRepository" not found in /home2/ecbamisi/woodboard.org/public/empleados.php:77
+Stack trace:
+#0 {main}
+  thrown in /home2/ecbamisi/woodboard.org/public/empleados.php on line 77
+[06-Oct-2026 20:32:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "App\Data\Repositories\EmpleadoRepository" not found in /home2/ecbamisi/woodboard.org/public/empleados.php:81
+Stack trace:
+#0 {main}
+  thrown in /home2/ecbamisi/woodboard.org/public/empleados.php on line 81
+[06-Oct-2026 20:32:54 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "App\Data\Repositories\EmpleadoRepository" not found in /home2/ecbamisi/woodboard.org/public/empleados.php:77
+Stack trace:
+#0 {main}
+  thrown in /home2/ecbamisi/woodboard.org/public/empleados.php on line 77
+[06-Oct-2026 20:33:51 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "App\Data\Repositories\EmpleadoRepository" not found in /home2/ecbamisi/woodboard.org/public/empleados.php:77
+Stack trace:
+#0 {main}
+  thrown in /home2/ecbamisi/woodboard.org/public/empleados.php on line 77
+[06-Oct-2026 20:34:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "App\Data\Repositories\EmpleadoRepository" not found in /home2/ecbamisi/woodboard.org/public/empleados.php:77
+Stack trace:
+#0 {main}
+  thrown in /home2/ecbamisi/woodboard.org/public/empleados.php on line 77
+[06-Oct-2026 20:34:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method App\Business\Services\EmpleadoService::obtenerEmpleado() in /home2/ecbamisi/woodboard.org/app/Business/Controllers/EmpleadoController.php:48
+Stack trace:
+#0 /home2/ecbamisi/woodboard.org/public/empleado_editar.php(74): App\Business\Controllers\EmpleadoController->datosFormularioEditar(1)
+#1 {main}
+  thrown in /home2/ecbamisi/woodboard.org/app/Business/Controllers/EmpleadoController.php on line 48
+[06-Oct-2026 20:34:41 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method App\Business\Services\EmpleadoService::obtenerEmpleado() in /home2/ecbamisi/woodboard.org/app/Business/Controllers/EmpleadoController.php:48
+Stack trace:
+#0 /home2/ecbamisi/woodboard.org/public/empleado_editar.php(74): App\Business\Controllers\EmpleadoController->datosFormularioEditar(1)
+#1 {main}
+  thrown in /home2/ecbamisi/woodboard.org/app/Business/Controllers/EmpleadoController.php on line 48
+[06-Oct-2026 20:35:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method App\Business\Services\EmpleadoService::cambiarEstado() in /home2/ecbamisi/woodboard.org/app/Business/Controllers/EmpleadoController.php:73
+Stack trace:
+#0 /home2/ecbamisi/woodboard.org/public/empleado_estado.php(74): App\Business\Controllers\EmpleadoController->cambiarEstado(1)
+#1 {main}
+  thrown in /home2/ecbamisi/woodboard.org/app/Business/Controllers/EmpleadoController.php on line 73
+[06-Oct-2026 20:35:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method App\Business\Services\EmpleadoService::obtenerEmpleado() in /home2/ecbamisi/woodboard.org/app/Business/Controllers/EmpleadoController.php:48
+Stack trace:
+#0 /home2/ecbamisi/woodboard.org/public/empleado_editar.php(131): App\Business\Controllers\EmpleadoController->datosFormularioEditar(1)
+#1 {main}
+  thrown in /home2/ecbamisi/woodboard.org/app/Business/Controllers/EmpleadoController.php on line 48
+[06-Oct-2026 20:35:26 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method App\Business\Services\EmpleadoService::obtenerEmpleado() in /home2/ecbamisi/woodboard.org/app/Business/Controllers/EmpleadoController.php:48
+Stack trace:
+#0 /home2/ecbamisi/woodboard.org/public/empleado_editar.php(131): App\Business\Controllers\EmpleadoController->datosFormularioEditar(1)
+#1 {main}
+  thrown in /home2/ecbamisi/woodboard.org/app/Business/Controllers/EmpleadoController.php on line 48
+[06-Oct-2026 20:36:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method App\Business\Services\EmpleadoService::obtenerEmpleado() in /home2/ecbamisi/woodboard.org/app/Business/Controllers/EmpleadoController.php:48
+Stack trace:
+#0 /home2/ecbamisi/woodboard.org/public/empleado_editar.php(131): App\Business\Controllers\EmpleadoController->datosFormularioEditar(1)
+#1 {main}
+  thrown in /home2/ecbamisi/woodboard.org/app/Business/Controllers/EmpleadoController.php on line 48
+[06-Oct-2026 20:36:37 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method App\Business\Services\EmpleadoService::obtenerEmpleado() in /home2/ecbamisi/woodboard.org/app/Business/Controllers/EmpleadoController.php:48
+Stack trace:
+#0 /home2/ecbamisi/woodboard.org/public/empleado_editar.php(131): App\Business\Controllers\EmpleadoController->datosFormularioEditar(1)
+#1 {main}
+  thrown in /home2/ecbamisi/woodboard.org/app/Business/Controllers/EmpleadoController.php on line 48
+[06-Oct-2026 20:36:50 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method App\Business\Services\EmpleadoService::cambiarEstado() in /home2/ecbamisi/woodboard.org/app/Business/Controllers/EmpleadoController.php:73
+Stack trace:
+#0 /home2/ecbamisi/woodboard.org/public/empleado_estado.php(74): App\Business\Controllers\EmpleadoController->cambiarEstado(1)
+#1 {main}
+  thrown in /home2/ecbamisi/woodboard.org/app/Business/Controllers/EmpleadoController.php on line 73
+[06-Oct-2026 20:37:40 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method App\Business\Services\EmpleadoService::obtenerEmpleado() in /home2/ecbamisi/woodboard.org/app/Business/Controllers/EmpleadoController.php:48
+Stack trace:
+#0 /home2/ecbamisi/woodboard.org/public/empleado_editar.php(133): App\Business\Controllers\EmpleadoController->datosFormularioEditar(1)
+#1 {main}
+  thrown in /home2/ecbamisi/woodboard.org/app/Business/Controllers/EmpleadoController.php on line 48
+[06-Oct-2026 20:41:51 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[06-Oct-2026 20:41:51 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[06-Oct-2026 20:44:27 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[06-Oct-2026 20:44:27 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[06-Oct-2026 20:53:35 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[06-Oct-2026 20:53:35 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[06-Oct-2026 20:54:56 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function App\Business\Services\ProduccionService::__construct(), 1 passed in /home2/ecbamisi/woodboard.org/public/produccion.php on line 51 and exactly 2 expected in /home2/ecbamisi/woodboard.org/app/Business/Services/ProduccionService.php:17
+Stack trace:
+#0 /home2/ecbamisi/woodboard.org/public/produccion.php(51): App\Business\Services\ProduccionService->__construct(Object(App\Data\Repositories\ProduccionRepository))
+#1 {main}
+  thrown in /home2/ecbamisi/woodboard.org/app/Business/Services/ProduccionService.php on line 17
+[06-Oct-2026 20:55:14 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function App\Business\Services\ProduccionService::__construct(), 1 passed in /home2/ecbamisi/woodboard.org/public/produccion.php on line 51 and exactly 2 expected in /home2/ecbamisi/woodboard.org/app/Business/Services/ProduccionService.php:17
+Stack trace:
+#0 /home2/ecbamisi/woodboard.org/public/produccion.php(51): App\Business\Services\ProduccionService->__construct(Object(App\Data\Repositories\ProduccionRepository))
+#1 {main}
+  thrown in /home2/ecbamisi/woodboard.org/app/Business/Services/ProduccionService.php on line 17
+[06-Oct-2026 20:56:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method App\Data\Repositories\MetaProduccionRepository::listarActivas() in /home2/ecbamisi/woodboard.org/app/Business/Services/ProduccionService.php:37
+Stack trace:
+#0 /home2/ecbamisi/woodboard.org/app/Business/Controllers/ProduccionController.php(31): App\Business\Services\ProduccionService->obtenerMetasActivas()
+#1 /home2/ecbamisi/woodboard.org/public/produccion_crear.php(67): App\Business\Controllers\ProduccionController->datosFormularioCrear()
+#2 {main}
+  thrown in /home2/ecbamisi/woodboard.org/app/Business/Services/ProduccionService.php on line 37
+[06-Oct-2026 20:57:47 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method App\Data\Repositories\MetaProduccionRepository::listarActivas() in /home2/ecbamisi/woodboard.org/app/Business/Services/ProduccionService.php:37
+Stack trace:
+#0 /home2/ecbamisi/woodboard.org/app/Business/Controllers/ProduccionController.php(31): App\Business\Services\ProduccionService->obtenerMetasActivas()
+#1 /home2/ecbamisi/woodboard.org/public/produccion_crear.php(69): App\Business\Controllers\ProduccionController->datosFormularioCrear()
+#2 {main}
+  thrown in /home2/ecbamisi/woodboard.org/app/Business/Services/ProduccionService.php on line 37
+[06-Oct-2026 21:03:08 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[06-Oct-2026 21:03:08 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[06-Oct-2026 21:16:10 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[06-Oct-2026 21:16:10 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[06-Oct-2026 21:21:54 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[06-Oct-2026 21:21:54 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[06-Oct-2026 21:21:54 America/Mexico_City] PHP Warning:  require(/home2/ecbamisi/woodboard.org/public/../app/Presentation/Views/ventas/index.php): Failed to open stream: No such file or directory in /home2/ecbamisi/woodboard.org/public/ventas.php on line 70
+[06-Oct-2026 21:21:54 America/Mexico_City] PHP Warning:  require(/home2/ecbamisi/woodboard.org/public/../app/Presentation/Views/ventas/index.php): Failed to open stream: No such file or directory in /home2/ecbamisi/woodboard.org/public/ventas.php on line 70
+[06-Oct-2026 21:21:54 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/ecbamisi/woodboard.org/public/../app/Presentation/Views/ventas/index.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home2/ecbamisi/woodboard.org/public/ventas.php:70
+Stack trace:
+#0 {main}
+  thrown in /home2/ecbamisi/woodboard.org/public/ventas.php on line 70
+[06-Oct-2026 21:29:12 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[06-Oct-2026 21:29:12 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[06-Oct-2026 21:34:29 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[06-Oct-2026 21:34:29 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[06-Oct-2026 21:34:29 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method App\Business\Services\DashboardService::obtenerDashboardInventario() in /home2/ecbamisi/woodboard.org/app/Business/Controllers/DashboardController.php:39
+Stack trace:
+#0 /home2/ecbamisi/woodboard.org/public/dashboard_inventario.php(114): App\Business\Controllers\DashboardController->inventario(Array)
+#1 {main}
+  thrown in /home2/ecbamisi/woodboard.org/app/Business/Controllers/DashboardController.php on line 39
+[06-Oct-2026 21:35:28 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method App\Business\Services\DashboardService::obtenerDashboardInventario() in /home2/ecbamisi/woodboard.org/app/Business/Controllers/DashboardController.php:39
+Stack trace:
+#0 /home2/ecbamisi/woodboard.org/public/dashboard_inventario.php(114): App\Business\Controllers\DashboardController->inventario(Array)
+#1 {main}
+  thrown in /home2/ecbamisi/woodboard.org/app/Business/Controllers/DashboardController.php on line 39
+[06-Oct-2026 21:47:43 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[06-Oct-2026 21:47:43 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[06-Oct-2026 21:50:31 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[06-Oct-2026 21:50:31 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[06-Oct-2026 21:51:14 America/Mexico_City] PHP Warning:  Undefined variable $nombreUsuario in /home2/ecbamisi/woodboard.org/app/Presentation/Views/panel.php on line 79
+[06-Oct-2026 21:51:14 America/Mexico_City] PHP Warning:  Undefined variable $correoUsuario in /home2/ecbamisi/woodboard.org/app/Presentation/Views/panel.php on line 90
+[06-Oct-2026 21:51:14 America/Mexico_City] PHP Warning:  Undefined variable $nombreRol in /home2/ecbamisi/woodboard.org/app/Presentation/Views/panel.php on line 100
+[06-Oct-2026 21:51:14 America/Mexico_City] PHP Warning:  Undefined variable $nombreArea in /home2/ecbamisi/woodboard.org/app/Presentation/Views/panel.php on line 109
+[06-Oct-2026 21:59:54 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[06-Oct-2026 21:59:54 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[06-Oct-2026 22:08:13 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[06-Oct-2026 22:08:13 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[06-Oct-2026 22:18:30 America/Guatemala] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[06-Oct-2026 22:18:30 America/Guatemala] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[07-Oct-2026 15:22:45 America/Guatemala] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[07-Oct-2026 15:22:45 America/Guatemala] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[07-Oct-2026 15:22:45 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 105
+[07-Oct-2026 15:31:36 America/Guatemala] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[07-Oct-2026 15:31:36 America/Guatemala] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[07-Oct-2026 15:31:36 America/Guatemala] PHP Warning:  Undefined variable $nombreUsuario in /home2/ecbamisi/woodboard.org/app/Presentation/Views/panel.php on line 916
+[07-Oct-2026 15:31:36 America/Guatemala] PHP Warning:  Undefined variable $nombreUsuario in /home2/ecbamisi/woodboard.org/app/Presentation/Views/panel.php on line 922
+[07-Oct-2026 15:31:36 America/Guatemala] PHP Warning:  Undefined variable $nombreRol in /home2/ecbamisi/woodboard.org/app/Presentation/Views/panel.php on line 926
+[07-Oct-2026 15:31:40 America/Guatemala] PHP Warning:  Undefined variable $nombreUsuario in /home2/ecbamisi/woodboard.org/app/Presentation/Views/panel.php on line 916
+[07-Oct-2026 15:31:40 America/Guatemala] PHP Warning:  Undefined variable $nombreUsuario in /home2/ecbamisi/woodboard.org/app/Presentation/Views/panel.php on line 922
+[07-Oct-2026 15:31:40 America/Guatemala] PHP Warning:  Undefined variable $nombreRol in /home2/ecbamisi/woodboard.org/app/Presentation/Views/panel.php on line 926
+[07-Oct-2026 15:31:48 America/Guatemala] PHP Warning:  Undefined variable $nombreUsuario in /home2/ecbamisi/woodboard.org/app/Presentation/Views/panel.php on line 916
+[07-Oct-2026 15:31:48 America/Guatemala] PHP Warning:  Undefined variable $nombreUsuario in /home2/ecbamisi/woodboard.org/app/Presentation/Views/panel.php on line 922
+[07-Oct-2026 15:31:48 America/Guatemala] PHP Warning:  Undefined variable $nombreRol in /home2/ecbamisi/woodboard.org/app/Presentation/Views/panel.php on line 926
+[07-Oct-2026 15:35:53 America/Guatemala] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[07-Oct-2026 15:35:53 America/Guatemala] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[07-Oct-2026 15:41:17 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 105
+[07-Oct-2026 15:42:57 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 105
+[07-Oct-2026 15:43:47 America/Guatemala] PHP Warning:  Undefined variable $nombre_Rol in /home2/ecbamisi/woodboard.org/app/Presentation/Views/panel.php on line 634
+[07-Oct-2026 15:43:48 America/Guatemala] PHP Warning:  Undefined variable $nombre_Rol in /home2/ecbamisi/woodboard.org/app/Presentation/Views/panel.php on line 634
+[07-Oct-2026 15:44:02 America/Guatemala] PHP Warning:  Undefined variable $nombre_rol in /home2/ecbamisi/woodboard.org/app/Presentation/Views/panel.php on line 634
+[07-Oct-2026 15:44:03 America/Guatemala] PHP Warning:  Undefined variable $nombre_rol in /home2/ecbamisi/woodboard.org/app/Presentation/Views/panel.php on line 634
+[07-Oct-2026 15:44:12 America/Guatemala] PHP Warning:  Undefined variable $nombrerol in /home2/ecbamisi/woodboard.org/app/Presentation/Views/panel.php on line 634
+[07-Oct-2026 15:44:30 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 105
+[07-Oct-2026 15:44:36 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 105
+[07-Oct-2026 15:46:14 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 105
+[07-Oct-2026 15:47:15 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 597
+[07-Oct-2026 15:48:01 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 597
+[07-Oct-2026 15:48:09 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 280
+[07-Oct-2026 15:48:16 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 280
+[07-Oct-2026 15:48:21 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 105
+[07-Oct-2026 15:48:22 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 105
+[07-Oct-2026 15:48:28 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 280
+[07-Oct-2026 15:49:09 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 105
+[07-Oct-2026 15:49:19 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 304
+[07-Oct-2026 15:49:27 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 304
+[07-Oct-2026 15:49:31 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 304
+[07-Oct-2026 16:26:52 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 304
+[07-Oct-2026 16:29:43 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 304
+[07-Oct-2026 16:30:00 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[15-Oct-2026 16:06:39 America/Guatemala] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[15-Oct-2026 16:06:39 America/Guatemala] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[15-Oct-2026 16:06:39 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[15-Oct-2026 16:30:28 America/Guatemala] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[15-Oct-2026 16:30:28 America/Guatemala] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[15-Oct-2026 16:30:57 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[15-Oct-2026 16:32:27 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[15-Oct-2026 16:32:48 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[15-Oct-2026 16:33:05 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[15-Oct-2026 16:33:32 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[15-Oct-2026 16:34:07 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[15-Oct-2026 16:34:30 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[15-Oct-2026 16:34:47 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[15-Oct-2026 16:35:37 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[15-Oct-2026 17:20:08 America/Guatemala] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[15-Oct-2026 17:20:08 America/Guatemala] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[15-Oct-2026 17:20:08 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[15-Oct-2026 17:51:25 America/Guatemala] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[15-Oct-2026 17:51:25 America/Guatemala] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[15-Oct-2026 17:58:11 America/Guatemala] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[15-Oct-2026 17:58:11 America/Guatemala] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[15-Oct-2026 18:03:04 America/Mexico_City] PHP Fatal error:  strict_types declaration must be the very first statement in the script in /home2/ecbamisi/woodboard.org/public/dashboard_produccion.php on line 4
+[15-Oct-2026 18:03:14 America/Mexico_City] PHP Fatal error:  strict_types declaration must be the very first statement in the script in /home2/ecbamisi/woodboard.org/public/dashboard_produccion.php on line 4
+[15-Oct-2026 18:03:15 America/Guatemala] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[15-Oct-2026 18:03:15 America/Guatemala] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[15-Oct-2026 18:03:17 America/Mexico_City] PHP Fatal error:  strict_types declaration must be the very first statement in the script in /home2/ecbamisi/woodboard.org/public/dashboard_produccion.php on line 4
+[15-Oct-2026 18:03:22 America/Mexico_City] PHP Fatal error:  strict_types declaration must be the very first statement in the script in /home2/ecbamisi/woodboard.org/public/dashboard_produccion.php on line 4
+[15-Oct-2026 18:05:18 America/Mexico_City] PHP Fatal error:  strict_types declaration must be the very first statement in the script in /home2/ecbamisi/woodboard.org/public/dashboard_produccion.php on line 4
+[15-Oct-2026 18:05:19 America/Mexico_City] PHP Fatal error:  strict_types declaration must be the very first statement in the script in /home2/ecbamisi/woodboard.org/public/dashboard_produccion.php on line 4
+[15-Oct-2026 18:08:41 America/Guatemala] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 5
+[15-Oct-2026 18:08:41 America/Guatemala] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in /home2/ecbamisi/woodboard.org/config/database.php on line 6
+[15-Oct-2026 20:51:12 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[15-Oct-2026 22:03:07 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[16-Oct-2026 14:35:16 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[16-Oct-2026 18:54:51 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[16-Oct-2026 19:06:49 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[16-Oct-2026 19:07:31 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[16-Oct-2026 19:07:35 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[16-Oct-2026 19:07:37 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[16-Oct-2026 19:08:10 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[16-Oct-2026 19:08:12 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[16-Oct-2026 19:08:16 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[16-Oct-2026 19:08:40 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[16-Oct-2026 19:11:47 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[16-Oct-2026 19:12:31 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[16-Oct-2026 19:19:46 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[16-Oct-2026 19:20:11 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[16-Oct-2026 19:20:11 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[16-Oct-2026 19:30:02 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[16-Oct-2026 19:30:08 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[16-Oct-2026 19:48:56 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[23-Oct-2026 21:24:27 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[23-Oct-2026 22:54:45 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[30-Oct-2026 18:26:45 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[30-Oct-2026 22:49:49 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[31-Oct-2026 00:03:15 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[31-Oct-2026 00:03:49 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 369
+[31-Oct-2026 00:04:35 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 200
+[31-Oct-2026 00:04:44 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 200
+[31-Oct-2026 00:26:44 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 200
+[31-Oct-2026 00:27:35 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 200
+[31-Oct-2026 07:27:50 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 200
+[31-Oct-2026 07:32:07 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 200
+[31-Oct-2026 07:59:55 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 200
+[31-Oct-2026 08:05:24 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 200
+[31-Oct-2026 08:40:10 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 200
+[31-Oct-2026 08:40:15 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 200
+[31-Oct-2026 08:47:51 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 200
+[31-Oct-2026 09:20:04 America/Guatemala] PHP Warning:  Undefined variable $sesionIniciada in /home2/ecbamisi/woodboard.org/app/Presentation/Views/login.php on line 200
